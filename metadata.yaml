@@ -1,0 +1,33 @@
+_repo: Introduction-to-the-Science-of-Sociology_28496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Burgess, E. W. (Ernest Watson)
+    alias: Burgess, Ernest Watson
+    birthdate: 1886
+    deathdate: 1966
+    gutenberg_agent_id: '33366'
+    url: http://www.gutenberg.org/2009/agents/33366
+  - agent_name: Park, Robert Ezra
+    birthdate: 1864
+    deathdate: 1944
+    gutenberg_agent_id: '33365'
+    url: http://www.gutenberg.org/2009/agents/33365
+description: ''
+gutenberg_issued: '2009-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28496'
+  lccn: '21017003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HM'
+- !lcsh 'Sociology'
+title: Introduction to the Science of Sociology
+url: http://www.gutenberg.org/ebooks/28496
